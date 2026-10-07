@@ -1,0 +1,318 @@
+{
+  "fase_d_ipa": {
+    "kelas_7": {
+      "materi_1": {
+        "materi_pokok": "Identifikasi Makhluk Hidup",
+        "cp_target": "Murid mampu mengidentifikasi makhluk hidup dan benda di sekitarnya serta menganalisis karakteristik kunci makhluk hidup untuk pengklasifikasian menggunakan kunci determinasi sederhana.",
+        "sub_materi_esensial": [
+          "Ciri-ciri Dasar dan Sifat Hidup Makhluk Hidup",
+          "Kunci Determinasi Sederhana",
+          "Tingkatan Taksonomi dan Klasifikasi Makhluk Hidup"
+        ],
+        "suggested_profil_lulusan": [
+          "Penalaran Kritis",
+          "Kolaborasi",
+          "Komunikasi"
+        ],
+        "suggested_asesmen_formatif": [
+          "Lembar Kerja Kerja Ilmiah (LKPD)",
+          "Rubrik Observasi Kinerja Kelompok"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_2": {
+        "materi_pokok": "Pengukuran",
+        "cp_target": "Murid mampu menggunakan sistem pengukuran dalam kerja ilmiah, mengidentifikasi besaran, satuan fisis, serta memastikan akurasi data hasil pengukuran berulang.",
+        "sub_materi_esensial": [
+          "Besaran Pokok and Turunan dalam Kerja Ilmiah",
+          "Teknik Pengukuran Akurat Berulang Menggunakan Alat Ukur",
+          "Konversi Satuan dan Kepekaan Skala (Sense of Scale)"
+        ],
+        "suggested_profil_lulusan": [
+          "Kemandirian",
+          "Penalaran Kritis",
+          "Kolaborasi"
+        ],
+        "suggested_asesmen_formatif": [
+          "Lembar Kerja Kerja Ilmiah (LKPD)",
+          "Rubrik Observasi Kinerja Kelompok"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_3": {
+        "materi_pokok": "Klasifikasi, Sifat, dan Perubahan Materi",
+        "cp_target": "Murid mampu menganalisis klasifikasi, sifat, dan perubahan materi (zat), serta menerapkan konsep tersebut untuk menyelesaikan tantangan pemisahan campuran sederhana.",
+        "sub_materi_esensial": [
+          "Karakteristik Partikel Zat Padat, Cair, dan Gas",
+          "Unsur, Senyawa, Campuran, dan Sifat Fisika-Kimia Zat",
+          "Perubahan Fisika-Kimia dan Teknik Pemisahan Campuran Sederhana"
+        ],
+        "suggested_profil_lulusan": [
+          "Kreativitas",
+          "Penalaran Kritis",
+          "Keimanan dan Ketakwaan Terhadap Tuhan YME"
+        ],
+        "suggested_asesmen_formatif": [
+          "Lembar Kerja Kerja Ilmiah (LKPD)",
+          "Rubrik Observasi Kinerja Kelompok"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_4": {
+        "materi_pokok": "Mekanika Dasar (Gerak, Gaya, dan Tekanan)",
+        "cp_target": "Murid mampu menganalisis konsep gerak lurus, pengaruh berbagai gaya terhadap gerak benda, serta konsep tekanan zat padat, cair, dan gas.",
+        "sub_materi_esensial": [
+          "Besaran Gerak Lurus (Jarak, Perpindahan, Kelajuan, Kecepatan, Percepatan)",
+          "Hukum Newton tentang Gaya dan Pengaruhnya terhadap Gerak",
+          "Konsep Tekanan Zat Padat, Tekanan Hidrostatis, dan Hukum Pascal"
+        ],
+        "suggested_profil_lulusan": [
+          "Kemandirian",
+          "Penalaran Kritis",
+          "Komunikasi"
+        ],
+        "suggested_asesmen_formatif": [
+          "Lembar Kerja Kerja Ilmiah (LKPD)",
+          "Rubrik Observasi Kinerja Kelompok"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_5": {
+        "materi_pokok": "Suhu, Kalor, dan Pemuaian",
+        "cp_target": "Murid mampu menganalisis pengaruh energi kalor dan perpindahannya terhadap perubahan suhu, wujud zat, serta pemuaian benda dalam kehidupan sehari-hari.",
+        "sub_materi_esensial": [
+          "Suhu, Termometer, dan Hubungan Koefisien Pemuaian Benda",
+          "Mekanisme Perpindahan Kalor: Konduksi, Konveksi, dan Radiasi",
+          "Efek Radiasi Kalor pada Pemanasan Global dan Krisis Lingkungan"
+        ],
+        "suggested_profil_lulusan": [
+          "Kolaborasi",
+          "Kewargaan",
+          "Penalaran Kritis"
+        ],
+        "suggested_asesmen_formatif": [
+          "Lembar Kerja Kerja Ilmiah (LKPD)",
+          "Rubrik Observasi Kinerja Kelompok"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      }
+    },
+    "kelas_8": {
+      "materi_1": {
+        "materi_pokok": "Bumi dan Antariksa",
+        "cp_target": "Murid mampu menganalisis posisi relatif bumi-bulan-matahari dalam sistem tata surya serta menjelaskan pengaruhnya terhadap perubahan musim dan fenomena alam di bumi.",
+        "sub_materi_esensial": [
+          "Sistem Tata Surya dan Karakteristik Planet",
+          "Fenomena Gerhana, Pasang Surut Air Laut, dan Fase Bulan",
+          "Rotasi-Revolusi Bumi terhadap Perubahan Musim dan Iklim Global"
+        ],
+        "suggested_profil_lulusan": [
+          "Keimanan dan Ketakwaan Terhadap Tuhan YME",
+          "Kreativitas",
+          "Kewargaan"
+        ],
+        "suggested_asesmen_formatif": [
+          "Jurnal Refleksi Mandiri",
+          "Lembar Kerja Kerja Ilmiah (LKPD)"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_2": {
+        "materi_pokok": "Sistem Organisasi Kehidupan dan Kesehatan Tubuh",
+        "cp_target": "Murid mampu menganalisis sistem organisasi kehidupan mulai dari tingkat sel hingga organisme, fungsi sistem organ manusia, serta kelainan atau gangguan kesehatannya.",
+        "sub_materi_esensial": [
+          "Struktur dan Fungsi Sel Hewan-Tumbuhan dibandingkan Organel Sel",
+          "Sistem Organ Manusia: Pencernaan, Pernapasan, Peredaran Darah, Ekskresi",
+          "Gangguan Sistem Organ, Analisis Pola Hidup Sehat, dan Rekomendasi Medis"
+        ],
+        "suggested_profil_lulusan": [
+          "Kesehatan",
+          "Komunikasi",
+          "Kemandirian"
+        ],
+        "suggested_asesmen_formatif": [
+          "Jurnal Refleksi Mandiri",
+          "Lembar Kerja Kerja Ilmiah (LKPD)"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_3": {
+        "materi_pokok": "Zat Aditif dan Zat Adiktif",
+        "cp_target": "Murid mampu mengevaluasi komposisi produk makanan-minuman untuk mengidentifikasi zat aditif, menganalisis dampak zat adiktif bagi kesehatan, dan mengambil keputusan hidup sehat secara mandiri.",
+        "sub_materi_esensial": [
+          "Jenis Zat Aditif Alami-Buatan dan Konsep Acceptable Daily Intake (ADI)",
+          "Zat Adiktif (Narkotika, Psikotropika) dan Dampak Kerusakan Saraf",
+          "Evaluasi Kritis Label Komposisi Produk Kemasan di Pasaran"
+        ],
+        "suggested_profil_lulusan": [
+          "Kemandirian",
+          "Kesehatan",
+          "Penalaran Kritis"
+        ],
+        "suggested_asesmen_formatif": [
+          "Jurnal Refleksi Mandiri",
+          "Rubrik Produk Kreatif (Poster/Video)"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_4": {
+        "materi_pokok": "Usaha dan Energi",
+        "cp_target": "Murid mampu menganalisis konsep usaha mekanis, hubungan gaya dan perpindahan, serta transformasi energi potensial, kinetik, dan mekanik dalam sistem fisis.",
+        "sub_materi_esensial": [
+          "Hubungan Usaha, Gaya, dan Jarak Perpindahan Benda",
+          "Energi Potensial Gravitasi, Energi Kinetik, dan Hukum Kekekalan Energi",
+          "Penerapan Konsep Energi pada Teknologi Katrol dan Pesawat Sederhana"
+        ],
+        "suggested_profil_lulusan": [
+          "Penalaran Kritis",
+          "Kolaborasi",
+          "Kreativitas"
+        ],
+        "suggested_asesmen_formatif": [
+          "Lembar Kerja Kerja Ilmiah (LKPD)",
+          "Rubrik Observasi Kinerja Kelompok"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_5": {
+        "materi_pokok": "Getaran, Gelombang, dan Alat Optik",
+        "cp_target": "Murid mampu menganalisis karakteristik getaran, mekanisme perambatan gelombang mekanik (bunyi) dan elektromagnetik (cahaya), serta prinsip kerja pembentukan bayangan pada cermin, lensa, dan alat optik.",
+        "sub_materi_esensial": [
+          "Getaran Harmonik, Frekuensi, Amplitudo, dan Gelombang Bunyi",
+          "Sifat Cahaya, Pemantulan-Pembiasan, dan Struktur Indra Penglihatan",
+          "Prinsip Kerja Alat Optik (Kacamata, Mikroskop, Kaca Pembesar, Lup)"
+        ],
+        "suggested_profil_lulusan": [
+          "Kreativitas",
+          "Penalaran Kritis",
+          "Keimanan dan Ketakwaan Terhadap Tuhan YME"
+        ],
+        "suggested_asesmen_formatif": [
+          "Lembar Kerja Kerja Ilmiah (LKPD)",
+          "Rubrik Observasi Kinerja Kelompok"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      }
+    },
+    "kelas_9": {
+      "materi_1": {
+        "materi_pokok": "Pewarisan Sifat (Genetika)",
+        "cp_target": "Murid mampu menganalisis prinsip pewarisan sifat makhluk hidup, mengidentifikasi pembawa materi genetika (DNA & kromosom), memprediksi rasio keturunan persilangan Mendel, serta aplikasinya untuk meningkatkan kualitas hidup.",
+        "sub_materi_esensial": [
+          "Struktur Materi Genetika: Kromosom, DNA, Gen, dan Alel",
+          "Hukum Mendel: Persilangan Monohibrid dan Dihibrid Dominan-Resesif",
+          "Penerapan Genetika dalam Pemuliaan Tanaman dan Hewan Unggul"
+        ],
+        "suggested_profil_lulusan": [
+          "Penalaran Kritis",
+          "Kolaborasi",
+          "Kreativitas"
+        ],
+        "suggested_asesmen_formatif": [
+          "Lembar Kerja Kerja Ilmiah (LKPD)",
+          "Rubrik Observasi Kinerja Kelompok"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_2": {
+        "materi_pokok": "Ekologi, Interaksi Ekosistem, dan Perubahan Iklim",
+        "cp_target": "Murid mampu menganalisis hubungan timbal balik makhluk hidup dengan lingkungannya, memprediksi dampak kerusakan ekosistem, serta merancang proyek pelestarian atau mitigasi perubahan iklim.",
+        "sub_materi_esensial": [
+          "Komponen Biotik-Abiotik, Rantai Makanan, dan Piramida Ekologi",
+          "Interaksi Ekosistem: Simbiosis, Kompetisi, Predasi, Alih Fungsi Lahan",
+          "Mitigasi Perubahan Iklim Melalui Penyerapan Karbon Dioksida Alami"
+        ],
+        "suggested_profil_lulusan": [
+          "Kewargaan",
+          "Kolaborasi",
+          "Kreativitas"
+        ],
+        "suggested_asesmen_formatif": [
+          "Jurnal Refleksi Mandiri",
+          "Lembar Kerja Kerja Ilmiah (LKPD)"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_3": {
+        "materi_pokok": "Bioteknologi Konvensional",
+        "cp_target": "Murid mampu menganalisis prinsip kerja bioteknologi konvensional dan membuat produk pangan fermentasi memanfaatkan bahan ramah lingkungan di sekitarnya.",
+        "sub_materi_esensial": [
+          "Perbedaan Bioteknologi Konvensional dan Modern",
+          "Peran Mikroorganisme (Bakteri, Jamur) dalam Fermentasi Bahan Pangan",
+          "Analisis Kelayakan Finansial, Modal, dan Biaya Produksi Bioteknologi"
+        ],
+        "suggested_profil_lulusan": [
+          "Kreativitas",
+          "Kolaborasi",
+          "Kemandirian"
+        ],
+        "suggested_asesmen_formatif": [
+          "Lembar Kerja Kerja Ilmiah (LKPD)",
+          "Rubrik Produk Kreatif (Poster/Video)"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      },
+      "materi_4": {
+        "materi_pokok": "Kelistrikan, Kemagnetan, dan Energi Terbarukan",
+        "cp_target": "Murid mampu menganalisis prinsip kemagnetan, gejala kelistrikan statis-dinamis, merangkai sirkuit listrik, serta mengevaluasi pemanfaatan sumber energi listrik ramah lingkungan.",
+        "sub_materi_esensial": [
+          "Gejala Kelistrikan Statis dan Arus Listrik Sirkuit Seri-Paralel",
+          "Prinsip Induksi Elektromagnetik, Gaya Lorentz, dan Generator Listrik",
+          "Teknologi Energi Listrik Ramah Lingkungan: Panel Surya & Mobil Listrik"
+        ],
+        "suggested_profil_lulusan": [
+          "Kreativitas",
+          "Penalaran Kritis",
+          "Kolaborasi"
+        ],
+        "suggested_asesmen_formatif": [
+          "Lembar Kerja Kerja Ilmiah (LKPD)",
+          "Rubrik Produk Kreatif (Poster/Video)"
+        ],
+        "suggested_asesmen_sumatif": [
+          "Pilihan Ganda Kontekstual (HOTS)",
+          "Esai Studi Kasus Real-World (SOLO Taxonomy)"
+        ]
+      }
+    }
+  }
+}
